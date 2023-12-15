@@ -1,0 +1,2 @@
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Python Man\Chess in Terminal\x64\Debug\Chess in Terminal.exe
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Chess\x64\Debug\Chess in Terminal.exe
