@@ -1,0 +1,3 @@
+﻿  MineSweeper Command Line Editon.cpp
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\MineSweeper Command Line Editon\MineSweeper Command Line Editon.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeper Command Line Editon.vcxproj -> C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\MineSweeper Command Line Editon\x64\Debug\MineSweeper Command Line Editon.exe
