@@ -1,0 +1,3 @@
+﻿  Asteroids C++ Edition.cpp
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Asteroids C++ Edition\Asteroids C++ Edition.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Asteroids C++ Edition.vcxproj -> C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Asteroids C++ Edition\x64\Debug\Asteroids C++ Edition.exe
